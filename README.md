@@ -26,3 +26,5 @@ The project aims to automate the extraction of specific information from a varie
    - **Processing Efficiency:** Addressed challenges related to processing efficiency, particularly when dealing with large PDF documents. Explored techniques to optimize processing time and resource utilization.
    - **Tool Limitations:** Acknowledged the limitations of the selected extraction tools, such as occasional inaccuracies and processing delays. Explored strategies to mitigate these limitations and improve overall extraction accuracy.
    - **Integration Hurdles:** Faced challenges related to the integration of advanced tools like Document AI due to billing issues and technical complexities. Explored alternative solutions and potential workarounds to overcome integration hurdles effectively.
+
+![](https://images.ctfassets.net/7xchb4r9mgls/2Hi5vNfDfihFMkCutRHg4m/3096ea435408f94ffc6ed0f3919b2ae1/Header_02.png)
